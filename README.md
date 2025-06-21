@@ -1,5 +1,7 @@
 # Repository for Reverse Software Engineering projects
 
+Below are sections of the two main parts of the directory
+
 ## Worked with:
 
 
